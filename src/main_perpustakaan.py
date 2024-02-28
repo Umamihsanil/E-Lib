@@ -41,6 +41,7 @@ def main():
             function.returnBuku(database_buku_dipinjam)
         elif numChoice == '8':
             clear_screen()
+            print('Terima Kasih, Sampai Jumpa!')
             sys.exit()
         else:
             print('Masukkan Angka Pilihan Sesuai Daftar!')
