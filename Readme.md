@@ -1,4 +1,4 @@
-![Header](./docs/E_Lib.png)
+![Header](./docs/Elib_Logo.png)
 
 ## About
 
