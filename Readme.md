@@ -13,7 +13,9 @@ E-LIB was released on February 2024 and developed by UI-Tech. We support organiz
 7. Returement, as same as Loan menu, only by inputing book's ID and borrower's ID will automatically returned in your main database.
 
 ## Installation
-git clone https://github.com/Umamihsanil/E-Lib.git
+To get this project, you can clone it by running the following code:
+
+    git clone https://github.com/Umamihsanil/E-Lib.git
 
 ## Project Organization
 
